@@ -1,0 +1,15 @@
+C:\Users\lipp2\Documents\Курсы по программированию\C#\Тренировка\examples\example001_World\bin\Debug\net6.0\example001_World.exe
+C:\Users\lipp2\Documents\Курсы по программированию\C#\Тренировка\examples\example001_World\bin\Debug\net6.0\example001_World.deps.json
+C:\Users\lipp2\Documents\Курсы по программированию\C#\Тренировка\examples\example001_World\bin\Debug\net6.0\example001_World.runtimeconfig.json
+C:\Users\lipp2\Documents\Курсы по программированию\C#\Тренировка\examples\example001_World\bin\Debug\net6.0\example001_World.dll
+C:\Users\lipp2\Documents\Курсы по программированию\C#\Тренировка\examples\example001_World\bin\Debug\net6.0\example001_World.pdb
+C:\Users\lipp2\Documents\Курсы по программированию\C#\Тренировка\examples\example001_World\obj\Debug\net6.0\example001_World.csproj.AssemblyReference.cache
+C:\Users\lipp2\Documents\Курсы по программированию\C#\Тренировка\examples\example001_World\obj\Debug\net6.0\example001_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lipp2\Documents\Курсы по программированию\C#\Тренировка\examples\example001_World\obj\Debug\net6.0\example001_World.AssemblyInfoInputs.cache
+C:\Users\lipp2\Documents\Курсы по программированию\C#\Тренировка\examples\example001_World\obj\Debug\net6.0\example001_World.AssemblyInfo.cs
+C:\Users\lipp2\Documents\Курсы по программированию\C#\Тренировка\examples\example001_World\obj\Debug\net6.0\example001_World.csproj.CoreCompileInputs.cache
+C:\Users\lipp2\Documents\Курсы по программированию\C#\Тренировка\examples\example001_World\obj\Debug\net6.0\example001_World.dll
+C:\Users\lipp2\Documents\Курсы по программированию\C#\Тренировка\examples\example001_World\obj\Debug\net6.0\refint\example001_World.dll
+C:\Users\lipp2\Documents\Курсы по программированию\C#\Тренировка\examples\example001_World\obj\Debug\net6.0\example001_World.pdb
+C:\Users\lipp2\Documents\Курсы по программированию\C#\Тренировка\examples\example001_World\obj\Debug\net6.0\example001_World.genruntimeconfig.cache
+C:\Users\lipp2\Documents\Курсы по программированию\C#\Тренировка\examples\example001_World\obj\Debug\net6.0\ref\example001_World.dll
